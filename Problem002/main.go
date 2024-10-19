@@ -1,14 +1,18 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
-	s := "gopher"
-	fmt.Println("Hello and welcome, %s!", s)
-
-	for i := 1; i <= 5; i++ {
-		fmt.Println("i =", 100/i)
+	a := 1
+	b := 2
+	result := 0
+	for b <= 213456 {
+		if b%2 == 0 {
+			result += b
+		}
+		c := a + b
+		a = b
+		b = c
 	}
+	fmt.Println(result)
 }
