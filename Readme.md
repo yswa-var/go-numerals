@@ -9,4 +9,5 @@ This repository contains my solutions to [Project Euler](https://projecteuler.ne
 - [Problem 3](Problem003/README.md): Largest Prime Factor
 - [Problem 4](Problem004/README.md): Largest Palindrome Product
 - [Problem 5](Problem005/README.md): Smallest Multiple
+- [Problem 5](Problem006/README.md): Sum Square Difference
 - 
