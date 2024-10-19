@@ -7,4 +7,6 @@ This repository contains my solutions to [Project Euler](https://projecteuler.ne
 - [Problem 1](Problem001/README.md): Multiples of 3 and 5
 - [Problem 2](Problem002/README.md): Even Fibonacci numbers
 - [Problem 3](Problem003/README.md): Largest Prime Factor
+- [Problem 4](Problem004/README.md): Largest Palindrome Product
+- [Problem 5](Problem005/README.md): Smallest Multiple
 - 
